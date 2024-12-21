@@ -8,6 +8,8 @@
 
 In **Campus Navigator**, users can input their starting and destination buildings, and the application will calculate and display the shortest route using A* algorithm and Unity's NavMesh system. The project aims to assist students, faculty, and visitors in efficiently moving across the large DSCE campus.
 
+![campus](https://github.com/user-attachments/assets/df3f0513-7a17-41f2-b8e6-142496ea2459)
+
 ---
 
 ## 🎮 Gameplay Mechanics
